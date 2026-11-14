@@ -1,11 +1,7 @@
 {
   "username": "abhishekbaloria",
-  "through": "2026-11-12",
+  "through": "2026-11-13",
   "days": [
-    {
-      "date": "2025-11-13",
-      "count": 0
-    },
     {
       "date": "2025-11-14",
       "count": 0
@@ -1460,6 +1456,10 @@
     },
     {
       "date": "2026-11-12",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
       "count": 0
     }
   ],
